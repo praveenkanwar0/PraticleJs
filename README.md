@@ -16,6 +16,7 @@ https://youtu.be/mOp615aCM7k
 https://bit.ly/3d0CNdK
 
 ## Screenshots
+![App Screenshot](https://github.com/praveenkanwar0/PraticleJs/blob/main/screeshot.png)
 
 
 
